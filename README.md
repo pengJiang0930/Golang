@@ -1,2 +1,2 @@
-# Go-Study
-go语言的学习code
+# Golang
+Go syntax,features
